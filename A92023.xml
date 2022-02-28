@@ -1,0 +1,480 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and full relation of the great victory obtained against the rebels at Dungons-Hill in Ireland, August 8. 1647. by the forces under the command of Colonel Michael Jones. With a letter from the said colonel, to the right honorable, the committee at Derby house. Together with a perfect list of all that were slain, and taken prisoners. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92023</idno>
+            <idno type="STC">Wing R2068</idno>
+            <idno type="STC">Thomason E402_27</idno>
+            <idno type="STC">ESTC R201833</idno>
+            <idno type="EEBO-CITATION">99862324</idno>
+            <idno type="PROQUEST">99862324</idno>
+            <idno type="VID">160444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160444)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and full relation of the great victory obtained against the rebels at Dungons-Hill in Ireland, August 8. 1647. by the forces under the command of Colonel Michael Jones. With a letter from the said colonel, to the right honorable, the committee at Derby house. Together with a perfect list of all that were slain, and taken prisoners. Ordered by the Commons assembled in Parliament, that this relation be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Jones, Michael, d. 1649.</author>
+                  <author>Rowe, Matthew.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Aug. 19. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of a letter from Jones, dated at end "Dublin, 12. Aug. 1647", "A diary and relation of passages in and about Dublin, from the first of August, 1647. until the tenth of the same", signed at end "Matt. Rowe", and "A list of prisoners taken at the battel of Dungan Hill, Aug. 8. 1647".</note>
+                  <note>Annotation on Thomason copy: "Aug: 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160444:1" rendition="simple:additions"/>
+            <p>An Exact and full RELATION Of the great VICTORY OBTAINED. Againſt the Rebels at <hi>Dungons-Hill</hi> in IRELAND, <hi>Auguſt</hi> 8. 1647.</p>
+            <p>By the Forces under the Command of Colonel <hi>Michael Jones.</hi>
+            </p>
+            <p>With a Letter from the ſaid Colonel, to the right Honorable, The Committee at <hi>Derby</hi>-houſe.</p>
+            <p>Together with a perfect LIST of all that were ſlain, and taken Priſoners.</p>
+            <q>
+               <p>ORdered by the Commons aſſembled in Parliament, That this Relation be forthwith printed and publiſhed:</p>
+               <bibl>
+                  <hi>H: Elſynge, Cler. Parl. D. Com.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons. <hi>Aug.</hi> 19. 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:160444:2"/>
+            <pb n="3" facs="tcp:160444:2"/>
+            <head>To the Right Honorable, The Com<g ref="char:EOLhyphen"/>mittee at <hi>Derby</hi>-Houſe.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>I Have herewithal given your Lordſhips an accompt of paſſages in our late advan<g ref="char:EOLhyphen"/>cing againſt the Rebels; the obſervations therein given, drawn up by others, have been peruſed and approved for true by ſuch as were upon the place &amp; action: It is much from my diſpoſitio<g ref="char:cmbAbbrStroke">̄</g> to take notice, much leſs thus to pub<g ref="char:EOLhyphen"/>liſh matters of this kinde, wherein I am ſo con<g ref="char:EOLhyphen"/>cerned; But at this time I have been thereunto enforced, in the over-forwardneſs of ſome who have taken upon them to give out Relations of this Service, not onely ſhort, but far from truth, and of much diſadvantage to the Pub<g ref="char:EOLhyphen"/>lique. This Victory had been well leading to a perfect Conqueſt of this Kingdom, were we thereunto enabled by ſupplies of Men, Moneys, and other Proviſions neceſſary for the Service. In the very noiſe of what is now done, I might (by Gods aſsiſtance) have ad<g ref="char:EOLhyphen"/>vanced far into the enemies chiefeſt ſtrengths, and well nigh at once ſhut up what of this work were to be done in this Province, had I
+<pb n="4" facs="tcp:160444:3"/>
+been furniſhed with Carriages, Proviſions and Pay for the Soldiers, for want of which I have been enforced to march home, whereby time and means may be given to the Enemy for re<g ref="char:EOLhyphen"/>cruiting, to our further diſadvantage: for we had not proviſions of Victuals in the field for one day, and Money there was not here for one weeks Pay. That of greateſt value ſeized on, was the Train of Artillery, and particular<g ref="char:EOLhyphen"/>ly Sixty four Oxen, worth 16.<abbr>
+                  <hi>l.</hi>
+               </abbr> the yoke: Theſe were the Soldiers due, who poſſeſſed themſelves of them; yet I have gathered them in from ſeveral hands for the publike ſervice, promiſing recompence out of the publike Treaſure, which I deſire may there be thought upon, and ſatisfaction therein given: Our loſs was not in men (not twenty being found miſ<g ref="char:EOLhyphen"/>ſing) but in horſe, many whereof were kill'd, and rendred unſerviceable; the Riders are caſt off from preſent ſervice, if not again mounted, which I humbly deſire may be there thought of, for the ſpeedy and vigorous proſecution of the War, which is to be done principally by Horſe and Dragooners, the Foot not being able to march in winter. I am</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble Servant, MICHAEL JONES.</signed>
+               <dateline>Dublin, <date>12 Aug. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb n="5" facs="tcp:160444:3"/>
+            <head>A <hi>DIARY</hi> and Relation of paſſages in and about <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> from the first of Auguſt, <hi>1647.</hi> until the tenth of the ſame.</head>
+            <div type="day">
+               <head>AVGVST I.</head>
+               <p>FOr relieving of <hi>Trim</hi> (a conſiderable gariſon of ours, 20. miles diſtant from <hi>Dublin,</hi> beſieg'd by Col. <hi>Preſton,</hi> the Rebels General of <hi>Leynſter</hi> with his whole ſtrength, Col. <hi>Michael Iones</hi> Com<g ref="char:EOLhyphen"/>mander in chief of the <hi>Leynster</hi> Forces, marched from <hi>Dublin,</hi> Aug 1. 1647. with about 3800. foot, and two Regiments of horſe, two Demiculver<g ref="char:EOLhyphen"/>ings, one Saker and four Sakaruts. That night the Army quartered at a village called <hi>Swords,</hi> ſix miles from <hi>Dublin,</hi> being ſomething out of the rode to <hi>Trim,</hi> but leading towards the Rendez<g ref="char:EOLhyphen"/>vous appointed for meeting with the <hi>Droghedah</hi> and <hi>Dundalk</hi> Forces, joyned with a party of horſe and Foot expected out of the North of <hi>Ireland.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <head>AVGVST II.</head>
+               <p>
+                  <hi>Monday</hi> the 2. they marched to <hi>Ballirouthery,</hi> ſix miles from <hi>Swords.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <head>AVGVST III.</head>
+               <p>
+                  <hi>Tueſday</hi> the 3. They marched over the Hills of <hi>Hollywood,</hi> a mountainous country, to a place cal<g ref="char:EOLhyphen"/>led the <hi>Naal,</hi> and that night to <hi>Gariſhtown,</hi> where Col. <hi>Iones</hi> received Intelligence of the advancing of the expected ſupplies.</p>
+            </div>
+            <div type="day">
+               <pb n="6" facs="tcp:160444:4"/>
+               <head>AVGVST IV.</head>
+               <p>
+                  <hi>Wedneſday</hi> the 4. The Army marched to the Hill of <hi>Skreen,</hi> where they met with Sir <hi>Henry Titch<g ref="char:EOLhyphen"/>born,</hi> with the <hi>Droghedah</hi> Forces, Col: <hi>Moor,</hi> with thoſe of <hi>Dundalk, Newry</hi> and <hi>Carlingford,</hi> and Col: <hi>Conway</hi> with a party of the Northern old Britiſh, all making up about 700. Horſe and 1200. Foot, and two pieces of Ordnance: Thither came from <hi>Trim,</hi> Major <hi>Cadogan</hi> and Captain <hi>Arthur Graham,</hi> informing that the Enemy had that morning burnt his camp about <hi>Trim,</hi> and retired to the old lurking place called <hi>Portleister,</hi> a great and ſecure faſtneſs, about five miles weſtward from <hi>Trim.</hi> The ſame day our Army marched to the Hill of <hi>Tarra,</hi> where they were drawn up and miſtered 1500 Horſe, &amp; about 5000. Foot. That night they quarterd at the foot of the Hill of <hi>Tarra,</hi> at a place cald <hi>Dodeſtown;</hi> here <hi>Col. Iones</hi> cald a counſel of war.</p>
+            </div>
+            <div type="day">
+               <head>AVGVST V.</head>
+               <p>
+                  <hi>Thurſday</hi> the 5. The Army marched to a place called <hi>Skurlockstown,</hi> within one mile of <hi>Trim,</hi> where they quartered that night.</p>
+            </div>
+            <div type="day">
+               <head>AVGVST VI.</head>
+               <p>
+                  <hi>Friday</hi> the 6. They marched through <hi>Trim,</hi> to a place called <hi>Trimbleston,</hi> wherein the Enemy had a gariſon; this place Col: <hi>Iones</hi> ſurrounded in view of the Enemy, then encamping at <hi>Portleiſter</hi> two
+<pb n="7" facs="tcp:160444:4"/>
+miles off, thereby to draw him forth, if poſsibly it might be, to engage himſelf to fight.</p>
+            </div>
+            <div type="day">
+               <head>AVGVST VII.</head>
+               <p>
+                  <hi>Saturday</hi> the 7. A party of fifty horſe of ours was commanded out for diſcovering of the Ene<g ref="char:EOLhyphen"/>my, and obſerving his motion; about ten a clock that day the Enemy was obſerved to move, and riſing from <hi>Portleiſter</hi> to croſs the countrey, and march towards <hi>Maynouth,</hi> a place within ten miles of <hi>Dublin;</hi> this confirmed the intelligence former<g ref="char:EOLhyphen"/>ly given us, of the Rebels intending to come be<g ref="char:EOLhyphen"/>twixt us and home, and marching to <hi>Dublin</hi> for ſurpriſing of that place in abſence of our forces engaged at the ſiege of <hi>Trimbleſton.</hi> Whereupon Col: <hi>Iones</hi> reſolved to riſe with the Army and to follow the Enemy, and had ſcarcely ſpoken the word for Drums to beat, but (by eſpecial provi<g ref="char:EOLhyphen"/>dence) at the ſame inſtant did the Caſtle beat a Parley, offring to ſurrender, if permitted to march away with Bag and Baggage, and Colors flying; which with advice of a Councel of War, was aſ<g ref="char:EOLhyphen"/>ſented unto, We receiving the place, and placing therein a gariſon. That night our Army marched back through <hi>Trim,</hi> and quartered at <hi>Skurlockſtown</hi> aforeſaid therein, in four hours marching, as far as before they had done in a whole day: That
+<pb n="8" facs="tcp:160444:5"/>
+night a convoy, with ſome proviſions, came from <hi>Droghedah</hi> to the Army: That night a commanded party of 500. Horſe was ſent out from our Army, with Orders to follow the Enemy, &amp; beat up his quarters if enquartered, otherwiſe to follow him to <hi>Dublin</hi> if marching forward, the body of our Army being to follow after with all poſsible ex<g ref="char:EOLhyphen"/>pedition: This commanded party found the ene<g ref="char:EOLhyphen"/>my quartered behinde a very great Bog, ſo as no approach could be made to him; whereof Col: <hi>Iones</hi> being certified, he the next morning advanced towards the Enemy with the whole Army.</p>
+            </div>
+            <div type="day">
+               <head>AVGVST VIII.</head>
+               <p>The Army marched through the ſtrong faſtnes of <hi>Dennigan</hi> belonging unto <hi>Westy,</hi> wherein was a gariſon of the Enemies that ſhot at our men in their paſsing by, the village we fired, but the Ca<g ref="char:EOLhyphen"/>ſtle held out: That day about ten a clock our ar<g ref="char:EOLhyphen"/>my came to a place cald <hi>Lynchesknock,</hi> within one mile whereof the Enemy was drawn up on <hi>Dun<g ref="char:EOLhyphen"/>gon</hi> hill, a place to him of all advantages, being an high ground, whereunto adjoyned a Wood and a Bog (their uſual refuge in diſtreſs) The Enemy alſo ſtood poſſeſſed of great ditches, within which he was as in ſo many ſtrong works intrenched; hereunto may be added the advantages of wind and Sun.</p>
+               <p>
+                  <pb n="9" facs="tcp:160444:5"/>The Enemy had lately before muſtered 7300 Foot, and 1047 Horſe; which number of Horſe ap<g ref="char:EOLhyphen"/>peareth by a Muſter-Roll after found in theſe words: <hi>viz.</hi>
+               </p>
+               <list>
+                  <head>Muſtered the <hi>5</hi> of Auguſt <hi>1647.</hi>
+                  </head>
+                  <item>
+                     <hi>The Lo. Generals Troop beſides Officers</hi> 52</item>
+                  <item>Colonell <hi>Fitz Gerald</hi> 49</item>
+                  <item>
+                     <hi>The Major Generall</hi> 50</item>
+                  <item>Lieutenant Col. <hi>Finglas</hi> 45</item>
+                  <item>Major <hi>Butler</hi> 50</item>
+                  <item>Captain <hi>Fitz Gerald</hi> 42</item>
+                  <item>Colonell <hi>Cullin</hi> 34</item>
+                  <item>Sir <hi>James Dyllon</hi> 36</item>
+                  <item>Captain <hi>Davies</hi> 47</item>
+                  <item>Major <hi>Dungan</hi> 44</item>
+                  <item>Cap. <hi>John Fitz Patrick</hi> 35</item>
+                  <item>Colonell <hi>Preſton</hi> 35</item>
+                  <item>Captain <hi>Aylmer</hi> 36</item>
+                  <item>Cap. <hi>Plunket</hi> 28</item>
+                  <item>Cap. <hi>Harpoole</hi> 38</item>
+                  <item>Earl of <hi>Fingall</hi> 41</item>
+                  <item>Lord of <hi>Primbleſton</hi> 36</item>
+                  <item>Earl of <hi>Weſtmeath</hi> 41</item>
+                  <item>Cap. <hi>James Barnwell</hi> 35</item>
+                  <item>Cap. <hi>John Butler</hi> 39</item>
+                  <item>Sir <hi>Walter Butler</hi> 40</item>
+                  <item>Cap. <hi>Graſe</hi> 47</item>
+                  <item>Cap. <hi>Edward Butler</hi> 34</item>
+                  <item>Cap. <hi>Walſh</hi> 44</item>
+                  <item>Cap. <hi>Bagnall</hi> 45</item>
+                  <item>Cap. <hi>Nugent</hi> 44</item>
+               </list>
+               <p>This Liſt of 26 Troops amounteth to 1047 Horſe: whereunto is to be added the Lord <hi>Coſtologh</hi>'s party of about 300 Horſe, and two of the <hi>Nugents</hi> with two Troops more, which came to the Enemy the night be<g ref="char:EOLhyphen"/>fore the Battell.</p>
+               <p>Under the hill our Army was drawn up; the Ene<g ref="char:EOLhyphen"/>mies
+<pb n="10" facs="tcp:160444:6"/>
+Canon playd hot at us, but with little loſſe o<g ref="char:EOLhyphen"/>ther then two men, and one horſe.</p>
+               <p>About 12 of the clock the Armies joyned the Bat<g ref="char:EOLhyphen"/>tell, continuing about two hours: our two Wings of Horſe with ſome Foot having broken both Wings of the Enemy, our main Body advanced, and broke theirs: whereupon about 3000 of the Rebels beta<g ref="char:EOLhyphen"/>king themſelves to the Bog, they there drew up into a Body: But Colonell <hi>Jones</hi> commanding the Bog to be ſurrounded with Horſe and Foot, our Foot followed into the Bog, where they put to the ſword all not admitted to quarter; ſuch of the Rebels as leſt the Bog fell into the power of our Horſe.</p>
+               <p>Of the ſlain there were upon the place reckoned 5470, beſides thoſe after gleaned up, which were very many: of the enemies Foot there could not e<g ref="char:EOLhyphen"/>ſcape above 500, they being as they were inviron<g ref="char:EOLhyphen"/>ed. Amongſt thoſe ſlain were 400 of <hi>Kilketto</hi>'s men; there were alſo put to the ſword without mercy all formerly of our party, now found amongſt the Re<g ref="char:EOLhyphen"/>bels, and all Engliſh, though never of our party.</p>
+               <p>The number of the Priſoners (as appeareth in the annexed Schedule) is, of Colonels five, whereof is the Lieutenant Generall of Leinſter, and the Earle of <hi>Weſtmeath;</hi> four Lieutenant Colonels, ſix Ser<g ref="char:EOLhyphen"/>geant Majors, thirty two Captains, twenty three Lieu<g ref="char:EOLhyphen"/>tenants,
+<pb n="11" facs="tcp:160444:6"/>
+twenty ſeven Enſignes, two Cornets, twen-two Sergeants, two Quartermaſters, two Gunners, the Clerk of the Stores, thirteen Troopers, and 228 common Souldiers; <hi>Preſton</hi> their Generall hardly e<g ref="char:EOLhyphen"/>ſcaped with the Horſe: he left his Carriages and Ca<g ref="char:EOLhyphen"/>non, being four Dem-Culverings, each carrying 12 pound bullet, and ſixty four fair Oxen attending the Train, which are to us of very great uſe, we being till now in that kind very ſhort provided: there was alſo taken <hi>Preſtons</hi> Cabinet of Papers, much valued in diſcoveries therein made. All their Colours wee have, which Colonell <hi>Jones</hi> could not be perſwa<g ref="char:EOLhyphen"/>ded to be brought into Dublin with triumph, as ſa<g ref="char:EOLhyphen"/>vouring (ſaid he) of oſtentation, and attributing un<g ref="char:EOLhyphen"/>to man the glory of this great work due to the Lord alone.</p>
+               <p>Of ours were ſome wounded, but not twenty ſlain; of note we loſt onely two Coronets, and one Captain <hi>Gibbs,</hi> who being over-heated in the Ser<g ref="char:EOLhyphen"/>vice, dyed in drinking ditch-water.</p>
+               <p>Herein to give every hand in this glorious Action the honour due, were more then many more lines could ſuffice unto; in the generall, never did men carry themſelves with more reſolution and gallantry then did ours both Officers and Souldiers, deſerving much more encouragement then hitherto they have
+<pb n="12" facs="tcp:160444:7"/>
+found, moſt of them having ſcarce meat to eat, or clothes to put on.</p>
+               <p>All done, Colonell <hi>Jones</hi> commanded through<g ref="char:EOLhyphen"/>out the Army thankſgiving to be given to the Lord of Hoſts, who did that day wonderfully for his people; appointing Tueſday the ſeventeenth of Au<g ref="char:EOLhyphen"/>guſt for a day of publick Thankſgiving in all the Churches of Dublin.</p>
+               <p>On the place where the Battell was fought did the Army that night quarter.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>August</hi> 9.</head>
+               <p>Munday <hi>Auguſt</hi> the ninth, Colonell <hi>Jones</hi> called a Councell of War, and commanded Colonell <hi>Fen<g ref="char:EOLhyphen"/>wick</hi> Governour of Trim to place Gariſons in Den<g ref="char:EOLhyphen"/>nigan and Kilbrue.</p>
+               <p>That day the Army marched to Maynouth, a ſtrong Caſtle belonging to the Earl of <hi>Kildare,</hi> which was ſummoned, and ſurrendred by the Rebels, and by us garriſoned.</p>
+               <p>After this Victory the Enemy quit and burnt di<g ref="char:EOLhyphen"/>vers of their Garriſons, <hi>viz.</hi> the Naas, Piggingſ<g ref="char:EOLhyphen"/>town, Harriſtowne, Collanſtown, Caſtle-Warding, and Moyglare, and much more had been gained of them, had there been pay and proviſion for the Ar<g ref="char:EOLhyphen"/>mie, whereby the Victory had been proſecuted. But
+<pb n="13" facs="tcp:160444:7"/>
+in the want of both they were inforced to take homewards unexpectedly.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <hi>August</hi> 10.</head>
+               <p>Tueſday the tenth, Colonel <hi>Jones</hi> diſmiſſed the Northern Forces that had joyned with him, engaging himſelf for their ſatisfaction aſſoon as Treaſure ſhould come over.</p>
+               <p>He alſo diſmiſſed to their ſeveral Gariſons the For<g ref="char:EOLhyphen"/>ces of Droghedah, Dundalk, Newry and Carlingford, commanding Sir <hi>Henry Titchburne</hi> in his return to ſummon the Nobber, and other places neer Droghe<g ref="char:EOLhyphen"/>dah poſſeſſed by the Rebels; promiſing, if occaſion required, and that proviſion could be made for the Army, to advance with his Strength to their aſſiſt<g ref="char:EOLhyphen"/>ance.</p>
+               <p>That day the reſt of the Army marched to Dublin, where wanting what might content our hungry and wearied Souldiers, by the providence of God, as our Army was ready to enter the Citie, they were met with news of 1500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> brought by Captain <hi>Rich</hi> into the Harbour, borrowed by Alderman <hi>Walley,</hi> therein much meriting of the Publike. This ſmall ſum, though otherwiſe very inconſiderable, was yet ſome<g ref="char:EOLhyphen"/>thing in the preſent diſtreſſe, and is to be valued as an earneſt of the Lords care of his people, to whom he
+<pb n="14" facs="tcp:160444:8"/>
+will in his good time appear in a full deliverance.</p>
+               <p>There was little conſiderable pillage gained from the Enemy in this Victory: That of beſt value was the Artillery and Oxen, which at laſt Colonel <hi>Jones</hi> purchaſed for the publike uſe from thoſe hands whereinto they fell, unto whom he ſtandeth engaged for ſatisfaction. As for pillage of greater value, lit<g ref="char:EOLhyphen"/>tle was found, howſoever ſome have been pleaſed to ſpeak of it largely and ridiculouſly: and if any thing had been in that kinde gained more then ordinary, it could not be imagined it ſhould be of publick advantage, coming in (and that of due) into private hands.</p>
+               <p>This was the moſt ſignall Victory with greateſt loſſe to the Rebels that ever was gained in Ireland ſince the firſt Conqueſt thereof by the Engliſh; For which the Lord make us truly thankfull.</p>
+               <closer>
+                  <signed>Matt. Rowe.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="list">
+            <head>A Liſt of the Priſoners taken at the Battel of Dungan Hill, <hi>Aug.</hi> 8. 1647.</head>
+            <list>
+               <head>Colonels.</head>
+               <item>The Earl of Weſtmeath</item>
+               <item>Lieutenant General <hi>Byrue</hi>
+               </item>
+               <item>Colonel <hi>Warren</hi>
+               </item>
+               <item>Colonel <hi>Browne</hi>
+               </item>
+               <item>Colonel <hi>Butler</hi>
+               </item>
+               <item ana="#role_TOTAL">5.</item>
+            </list>
+            <list>
+               <head>Lieutenant Colonels.</head>
+               <item>Lieutenant Colonel <hi>Synnott</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Fitz-Gerald</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Gavanagh</hi>
+               </item>
+               <item>Lieutenant Colonel <hi>Cruiſe</hi>
+               </item>
+               <item ana="#role_TOTAL">4.</item>
+            </list>
+            <list>
+               <pb n="15" facs="tcp:160444:8"/>
+               <head>Sergeant Majors.</head>
+               <item>Major <hi>Taaffe</hi>
+               </item>
+               <item>Major <hi>Laler</hi>
+               </item>
+               <item>Major <hi>Cuſacke</hi>
+               </item>
+               <item>Major <hi>Gaffegan</hi>
+               </item>
+               <item>Major <hi>Synnot</hi>
+               </item>
+               <item>Major <hi>Byrne</hi>
+               </item>
+               <item ana="#role_TOTAL">6.</item>
+            </list>
+            <list>
+               <head>Captains.</head>
+               <item>Michael Byrne</item>
+               <item>Arthur Cavanagh</item>
+               <item>Danby Toole</item>
+               <item>Martin Wolverſtowne</item>
+               <item>Edward Tirrel</item>
+               <item>Chriſtopher Nugent</item>
+               <item>Edward Nugent</item>
+               <item>Baltazer Nugent.</item>
+               <item>James Dempſy</item>
+               <item>William Tirrel</item>
+               <item>Roger Darcey</item>
+               <item>James Fitz-Gerald</item>
+               <item>Thomas Geoghegan</item>
+               <item>Charles Conner</item>
+               <item>Henry Warren</item>
+               <item>Patrick Notterveile</item>
+               <item>Teige Connor</item>
+               <item>Thomas Plunket</item>
+               <item>Lawrence Fitz-Patrick</item>
+               <item>Thomas Gawly</item>
+               <item>Richard Naſh</item>
+               <item>Dominick Shortaile</item>
+               <item>John Comerford</item>
+               <item>William Furlonge</item>
+               <item>Arthur Dillon</item>
+               <item>Lawrence Tuite</item>
+               <item>Robert Preston <hi>Captain of Horſe</hi>
+               </item>
+               <item>Randel mac Alexander</item>
+               <item>
+                  <hi>Captain</hi> Geoghegon</item>
+               <item>
+                  <hi>Captain</hi> mac Donnel</item>
+               <item>
+                  <hi>Captain</hi> Taaffe</item>
+               <item>
+                  <hi>Captain</hi> Rochfad</item>
+               <item ana="#role_TOTAL">32.</item>
+            </list>
+            <list>
+               <head>Lieutenants.</head>
+               <item>Nicholas Tirrel</item>
+               <item>James Caſey</item>
+               <item>Garrot Floyd</item>
+               <item>Edm. Bermingham</item>
+               <item>Thomas Darcey</item>
+               <item>Chriſtopher Geoghegan</item>
+               <item>Walter Mooney</item>
+               <item>Donnogh Dempſy</item>
+               <item>Leonard Shortayle</item>
+               <item>Chriſtopher Darcy</item>
+               <item>Michael Gaynor</item>
+               <item>Roſſe Geoghegan</item>
+               <item>Thomas Quyn</item>
+               <item>Henry Dotton</item>
+               <item>Henry Neale</item>
+               <item>Bryan Ravanagh</item>
+               <item>Tirlagh Toole</item>
+               <item>Robert Byrne</item>
+               <item>Walter Fitz-Harris</item>
+               <item>John Rech</item>
+               <item>Theobald Toole</item>
+               <item>Roſſe Dempſie</item>
+               <item>James Barry alias Gerrald</item>
+               <item ana="#role_TOTAL">23.</item>
+            </list>
+            <list>
+               <head>Enſignes.</head>
+               <item>James Fitz-Symons</item>
+               <item>James Tyrrel</item>
+               <item>Teige Kelly</item>
+               <item>Francis Foxe</item>
+               <item>James mac ô Kyre</item>
+               <item>Chriſtopher Nugent</item>
+               <item>Lawrence Dempſy</item>
+               <item>Philip Cuſacke</item>
+               <item>George Warren</item>
+               <item>Andrew Geoghegan</item>
+               <item>
+                  <pb n="16" facs="tcp:160444:9"/>Oliver Lynacke</item>
+               <item>James Warren</item>
+               <item>John Butler</item>
+               <item>James Fitz-Harris</item>
+               <item>Victor Whyte</item>
+               <item>Jeffry Fitz Symons</item>
+               <item>Owen ô Heveran</item>
+               <item>Edward Fitz-Gerald</item>
+               <item>Robert Fitz-Gerald</item>
+               <item>Lawrence mac Donnel</item>
+               <item>Phelim Notane</item>
+               <item>Patrick Kahore</item>
+               <item>Anthony ô Bryan</item>
+               <item>Donnel Cowran</item>
+               <item>Tirlagh mac Nully</item>
+               <item>Enos mac Alexander</item>
+               <item>Nicholas Quayhell</item>
+               <item ana="#role_TOTAL">27.</item>
+            </list>
+            <list>
+               <head>Cornets.</head>
+               <item>Richard Talbot</item>
+               <item>James Fitz-Gerald.</item>
+               <item ana="#role_TOTAL">2.</item>
+            </list>
+            <list>
+               <head>Quartermaſters.</head>
+               <item>James Walſh</item>
+               <item>Richard Jones</item>
+               <item ana="#role_TOTAL">2.</item>
+            </list>
+            <list>
+               <head>Gunners.</head>
+               <item>Michael Walſh</item>
+               <item>Philip Stafford</item>
+               <item ana="#role_TOTAL">2.</item>
+            </list>
+            <list>
+               <head>Clerk of the Store.</head>
+               <item>John Hadger</item>
+               <item ana="#role_TOTAL">1.</item>
+            </list>
+            <list>
+               <head>Sergeants.</head>
+               <item>Donogh Mynom</item>
+               <item>John ô Meaghan</item>
+               <item>Moyle Murry Ravanagh</item>
+               <item>Peirce Synnot</item>
+               <item>Teige Gaffney</item>
+               <item>James Purcel</item>
+               <item>Patrick Rowland</item>
+               <item>Calure Ravanagh</item>
+               <item>Morogh Ravanagh</item>
+               <item>Garrot Toole</item>
+               <item>Neill ô Royrke</item>
+               <item>Neale ô Dolane</item>
+               <item>John Darcey</item>
+               <item>Patrick Farrily</item>
+               <item>Thomas Congan</item>
+               <item>Richard Murphey</item>
+               <item>Garrot Tirrel</item>
+               <item>Mamis ô Leadan.</item>
+               <item>William ô Moran</item>
+               <item>Owen mac Caffery</item>
+               <item>John mac Scallin</item>
+               <item>Dudley Byrne</item>
+               <item ana="#role_TOTAL">22.</item>
+            </list>
+            <list>
+               <head>Troopers.</head>
+               <item ana="#role_TOTAL">13.</item>
+            </list>
+            <list>
+               <head>Common Souldiers.</head>
+               <item ana="#role_TOTAL">228.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
